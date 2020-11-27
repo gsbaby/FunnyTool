@@ -87,6 +87,11 @@ class ARCVIEW_SHAPE:
         ds.Destroy()
 
 
-if __name__ == '__name__':
+if __name__ == '__main__':
     activeShp = ARCVIEW_SHAPE()
-    activeShp.read_shp()
+    spatialref,geomtype,geomlist,fieldlist,reclist= activeShp.read_shp('./HSCSD/HSCSD.shp')
+    print("spatialref:",spatialref)
+    print("geomtype:",geomtype)
+    print("geomlist:",geomlist)
+    print("fieldlist:",fieldlist)
+    print("reclist:",reclist)
