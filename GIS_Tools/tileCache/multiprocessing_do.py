@@ -1,4 +1,6 @@
 # coding:utf-8
+# 打包
+# pyinstaller -F -i D:/gaosong/Work_Demo/修改服务配置信息/FunnyTool/GIS_Tools/tileCache/1.ico D:/gaosong/Work_Demo/修改服务配置信息/FunnyTool/GIS_Tools/tileCache/multiprocessing_do.py
 import os
 import logging
 import datetime,time
