@@ -21,7 +21,7 @@
     <WorkingDataType>Int16</WorkingDataType>
     <Option name="INIT_DEST">NO_DATA</Option>
     <Option name="ERROR_OUT_IF_EMPTY_SOURCE_WINDOW">FALSE</Option>
-    <SourceDataset relativeToVRT="0">./Test/input/WH_BT_DEM_12_5.tif</SourceDataset>
+    <SourceDataset relativeToVRT="0">I:/T/input/WH_BT_DEM_12_5.tif</SourceDataset>
     <Transformer>
       <GenImgProjTransformer>
         <SrcGeoTransform>612273.458590147784,12.5,0,3468658.58961034613,0,-12.5</SrcGeoTransform>

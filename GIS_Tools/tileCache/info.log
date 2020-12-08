@@ -1,1 +1,126 @@
-INFO:root:2020-12-07 15:18:40
+INFO:root:inputFileName£ºI:/T/input/WH_BT_DEM_12_5.tif
+INFO:root:outputFileName£ºI:/T/output/WH_BT_DEM_12_5
+INFO:root:startLevel£º1,stopLevel£º8
+INFO:root:2020-12-08 13:55:33
+INFO:root:Finish,and the time is:
+INFO:root:2020-12-08 13:55:36
+INFO:root:Start,and the time is :
+INFO:root:2020-12-08 14:14:39
+INFO:root:Start,and the time is :
+INFO:root:2020-12-08 14:16:13
+INFO:root:Start,and the time is :
+INFO:root:2020-12-08 14:16:45
+INFO:root:Start,and the time is :
+INFO:root:2020-12-08 14:18:07
+INFO:root:Start,and the time is :
+INFO:root:2020-12-08 14:18:35
+INFO:root:Start,and the time is :
+INFO:root:2020-12-08 14:20:14
+INFO:root:Start,and the time is :
+INFO:root:2020-12-08 14:20:39
+INFO:root:inputFileName£ºJ:/ArcGIS_Data/Raster/AQ/455sub_warp_ls.dat
+INFO:root:outputFileName£ºI:/T/output/ss
+INFO:root:startLevel£º1,stopLevel£º10
+INFO:root:2020-12-08 14:21:51
+INFO:root:Finish,and the time is:
+INFO:root:2020-12-08 14:22:04
+INFO:root:inputFileName£ºJ:/ArcGIS_Data/Raster/AQ/GF1_PMS1_E116.4_N30.0_20200731_L1A0004961456_gspanwarp_ls_sub.dat
+INFO:root:outputFileName£ºI:/T/output/ss
+INFO:root:startLevel£º1,stopLevel£º10
+INFO:root:2020-12-08 14:24:14
+INFO:root:Finish,and the time is:
+INFO:root:2020-12-08 14:25:57
+INFO:root:Start,and the time is :
+INFO:root:2020-12-08 14:35:50
+INFO:root:Start,and the time is :
+INFO:root:2020-12-08 14:36:30
+INFO:root:Start,and the time is :
+INFO:root:2020-12-08 14:36:45
+INFO:root:Start,and the time is :
+INFO:root:2020-12-08 14:38:37
+INFO:root:Start,and the time is :
+INFO:root:2020-12-08 14:39:15
+INFO:root:Start,and the time is :
+INFO:root:2020-12-08 14:39:29
+INFO:root:Start,and the time is :
+INFO:root:2020-12-08 14:41:25
+INFO:root:Start,and the time is :
+INFO:root:2020-12-08 14:42:00
+INFO:root:Start,and the time is :
+INFO:root:2020-12-08 14:42:17
+INFO:root:Start,and the time is :
+INFO:root:2020-12-08 14:42:41
+INFO:root:Start,and the time is :
+INFO:root:2020-12-08 14:53:47
+INFO:root:inputFileName£º
+INFO:root:outputFileName£º
+INFO:root:startLevel£º0,stopLevel£º1
+INFO:root:Start,and the time is :
+INFO:root:2020-12-08 14:54:39
+INFO:root:inputFileName£º
+INFO:root:outputFileName£º
+INFO:root:startLevel£º1,stopLevel£º3
+INFO:root:cores£º8
+INFO:root:2020-12-08 14:54:48
+INFO:root:coresGo>num_cores
+INFO:root:Start,and the time is :
+INFO:root:2020-12-08 14:55:18
+INFO:root:inputFileName£º
+INFO:root:outputFileName£º
+INFO:root:startLevel£º5,stopLevel£º5
+INFO:root:cores£º8
+INFO:root:2020-12-08 14:55:26
+INFO:root:coresGo>num_cores
+INFO:root:Start,and the time is :
+INFO:root:2020-12-08 14:56:21
+INFO:root:Start,and the time is :
+INFO:root:2020-12-08 14:58:35
+INFO:root:Start,and the time is :
+INFO:root:2020-12-08 15:04:56
+INFO:root:Start,and the time is :
+INFO:root:2020-12-08 15:05:49
+INFO:root:Start,and the time is :
+INFO:root:2020-12-08 15:06:11
+INFO:root:Start,and the time is :
+INFO:root:2020-12-08 15:06:42
+INFO:root:Start,and the time is :
+INFO:root:2020-12-08 15:07:27
+INFO:root:inputFileName£ºI:/T/input/WH_BT_DEM_12_5.tif
+INFO:root:outputFileName£ºI:/T
+INFO:root:startLevel£º11,stopLevel£º10
+INFO:root:cores£º1
+INFO:root:2020-12-08 15:07:58
+INFO:root:Finish,and the time is:
+INFO:root:2020-12-08 15:07:59
+INFO:root:Start,and the time is :
+INFO:root:2020-12-08 15:09:46
+INFO:root:Start,and the time is :
+INFO:root:2020-12-08 15:15:14
+INFO:root:inputFileName£ºI:/T/input/WH_BT_DEM_12_5.tif
+INFO:root:outputFileName£ºI:/T/output/WH_BT_DEM_12_5
+INFO:root:startLevel£º1,stopLevel£º11
+INFO:root:cores£º3
+INFO:root:2020-12-08 15:15:43
+INFO:root:Finish,and the time is:
+INFO:root:2020-12-08 15:15:46
+INFO:root:inputFileName£ºI:/T/input/WH_BT_DEM_12_5.tif
+INFO:root:outputFileName£ºI:/T/output/WH_BT_DEM_12_5
+INFO:root:startLevel£º1,stopLevel£º16
+INFO:root:cores£º3
+INFO:root:2020-12-08 15:19:48
+INFO:root:Finish,and the time is:
+INFO:root:2020-12-08 15:20:26
+INFO:root:Start,and the time is :
+INFO:root:2020-12-08 15:54:18
+INFO:root:inputFileName£ºI:/T/input/WH_BT_DEM_12_5.tif
+INFO:root:outputFileName£ºI:/T/output/WH_BT_DEM_12_5
+INFO:root:startLevel£º1,stopLevel£º17
+INFO:root:cores£º1
+INFO:root:2020-12-08 15:55:13
+INFO:root:Start,and the time is :
+INFO:root:2020-12-08 15:56:45
+INFO:root:inputFileName£ºI:/T/input/WH_BT_DEM_12_5.tif
+INFO:root:outputFileName£ºI:/T/output/WH_BT_DEM_12_5
+INFO:root:startLevel£º1,stopLevel£º17
+INFO:root:cores£º3
+INFO:root:2020-12-08 15:57:09
