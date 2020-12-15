@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="/static/plugins/bootstrap-3.3.7-dist/css/bootstrap.css">
+</head>
+
+<body>
+{% load my_tags %}
+<h1>{{ hello }}</h1>
+<h1>{{ name }}</h1>
+{# 取出整个列表#}
+<p>{{ views_list }}</p>
+<p>{{ views_list | length }}</p>
+{#取出列表的第一个元素#}
+<p>{{ views_list.0 }}</p>
+<p>{{ views_dict }}</p>
+<p>{{ views_dict.name }}</p>
+<p>{{ default|default:"菜鸟教程666"  }}</p>
+{{ numlist|filesizeformat}}
+<br>
+{{ time|date:"Y-m-d" }}
+<p>{{ views_str|truncatechars:4}}</p>
+<p>{{ views_str2|safe }}</p>
+<p>
+{%if num > 90 and num <= 100 %}
+优秀
+{% elif num > 60 and num <= 90 %}
+合格
+{% else %}
+一边玩去～
+{% endif %}
+</p>
+{% for i in views_list reversed %}
+{{ i }}
+{% endfor %}
+<br>
+{% for i,j in views_dict.items %}
+{{ i }}---{{ j }}
+{% endfor %}
+<br>
+<br>
+{% for i in listvar %}
+{#    {{ forloop.counter }}#}
+{#    {{ forloop.counter0 }}#}
+{#    {{ forloop.revcounter }}#}
+{#    {{ forloop.revcounter0 }}#}
+{#    {{ forloop.first }}#}
+    {{ forloop.last }}
+{% endfor %}
+<br>
+{% for i in listvar2 %}
+    {{ forloop.counter0 }}
+{% empty %}
+    空空如也～
+{% endfor %}
+<br>
+<p>{{ 11|my_filter:22 }}</p>
+<p>{% my_tag1 11 22 33 %}</p>
+<p>{% my_html "zzz" "xxx" %}</p>
+
+
+{% load static %}
+{{name}}<img src="{% static "images/runoob-logo.png" %}" alt="runoob-logo">
+</body>
+</html>
